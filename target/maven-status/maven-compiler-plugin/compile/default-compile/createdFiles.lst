@@ -1,0 +1,5 @@
+com\mycompany\app\simulated_device\App$1.class
+com\mycompany\app\simulated_device\App$EventCallback.class
+com\mycompany\app\simulated_device\App$MessageSender.class
+com\mycompany\app\simulated_device\App.class
+com\mycompany\app\simulated_device\App$TelemetryDataPoint.class
